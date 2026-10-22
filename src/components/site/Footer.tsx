@@ -104,13 +104,14 @@ export function Footer() {
               مجاناً للطلاب والباحثين.
             </p>
             <p className="text-xs leading-relaxed text-[#f3e8cf]/65 sm:text-sm">
-              تصميم وإعداد: أ.د/ خالد عدلي خالد عسكر —{" "}
+              تصميم وإعداد: د/ ياسر محمد أحمد — الأستاذ المساعد بكلية
+              الزراعة، جامعة القاهرة —{" "}
               <a
-                href="mailto:khaled.adly@agr.bsu.edu.eg"
+                href="mailto:Yasser22121@hotmail.com"
                 className="font-semibold text-[#d9b356]/85 hover:text-[#d9b356]"
                 dir="ltr"
               >
-                khaled.adly@agr.bsu.edu.eg
+                Yasser22121@hotmail.com
               </a>
             </p>
           </div>

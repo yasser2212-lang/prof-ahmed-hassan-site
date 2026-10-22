@@ -93,7 +93,7 @@ export function Hero() {
           custom={4}
           className="mx-auto mt-4 max-w-3xl text-center text-sm leading-relaxed text-[#f3e8cf]/85 sm:text-base"
         >
-          إنتاج الخضر في الزراعات المكشوفة والمحمية — إتاحة كامل الإنتاج العلمي من كتب
+          إتاحة كامل الإنتاج العلمي من كتب
           وبحوث ونشرات إرشادية <span className="font-bold text-[#d9b356]">مجاناً</span>{" "}
           للطلاب والباحثين والمهتمين بالعلوم الزراعية.
         </motion.p>
